@@ -1,0 +1,15 @@
+C:\Users\opilane\source\repos\ChuckAPI\ChuckAPI\bin\Debug\netcoreapp3.1\ChuckAPI.exe
+C:\Users\opilane\source\repos\ChuckAPI\ChuckAPI\obj\Debug\netcoreapp3.1\ChuckAPI.csprojAssemblyReference.cache
+C:\Users\opilane\source\repos\ChuckAPI\ChuckAPI\obj\Debug\netcoreapp3.1\ChuckAPI.AssemblyInfoInputs.cache
+C:\Users\opilane\source\repos\ChuckAPI\ChuckAPI\obj\Debug\netcoreapp3.1\ChuckAPI.AssemblyInfo.cs
+C:\Users\opilane\source\repos\ChuckAPI\ChuckAPI\bin\Debug\netcoreapp3.1\ChuckAPI.deps.json
+C:\Users\opilane\source\repos\ChuckAPI\ChuckAPI\bin\Debug\netcoreapp3.1\ChuckAPI.runtimeconfig.json
+C:\Users\opilane\source\repos\ChuckAPI\ChuckAPI\bin\Debug\netcoreapp3.1\ChuckAPI.runtimeconfig.dev.json
+C:\Users\opilane\source\repos\ChuckAPI\ChuckAPI\bin\Debug\netcoreapp3.1\ChuckAPI.dll
+C:\Users\opilane\source\repos\ChuckAPI\ChuckAPI\bin\Debug\netcoreapp3.1\ChuckAPI.pdb
+C:\Users\opilane\source\repos\ChuckAPI\ChuckAPI\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\opilane\source\repos\ChuckAPI\ChuckAPI\obj\Debug\netcoreapp3.1\ChuckAPI.csproj.CoreCompileInputs.cache
+C:\Users\opilane\source\repos\ChuckAPI\ChuckAPI\obj\Debug\netcoreapp3.1\ChuckAPI.csproj.CopyComplete
+C:\Users\opilane\source\repos\ChuckAPI\ChuckAPI\obj\Debug\netcoreapp3.1\ChuckAPI.dll
+C:\Users\opilane\source\repos\ChuckAPI\ChuckAPI\obj\Debug\netcoreapp3.1\ChuckAPI.pdb
+C:\Users\opilane\source\repos\ChuckAPI\ChuckAPI\obj\Debug\netcoreapp3.1\ChuckAPI.genruntimeconfig.cache
